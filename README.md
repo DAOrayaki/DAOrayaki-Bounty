@@ -10,6 +10,6 @@ DAOrayaki 借助hacklink的bounty发布任务，具体操作见hacklink的操作
 3. 您提交的pull request的评论中，需要注明对应的issue编号，如您对Issue Id 为7的问题提交成果，该条pull request的评论需要为（ #7 ）
 4. 一次只提交一个问题的成果，如果有多个任务完成，请分多次提交。
 
-<b>提交任务时，请编辑对应的任务记录文件</b>，例如对于2021年12月15日发布的任务，需要再对应的文档中填写任务记录。
+<b>提交任务时，请更新对应的任务记录文件</b>，具体格式见文件内容。
 
-当前发布的bounty任务记录文件为：DAORayaki Bounty 2021-12-15，请对该文档进行修改，并提交pull request.
+当前发布的bounty任务记录文件为：DAORayaki Bounty 2021-12-15。
