@@ -12,4 +12,4 @@ DAOrayaki 借助hacklink的bounty发布任务，具体操作见hacklink的操作
 
 <b>提交任务时，请编辑对应的任务记录文件</b>，例如对于2021年12月15日发布的任务，需要再对应的文档中填写任务记录。
 
-当前发布的bounty任务记录文件为：
+当前发布的bounty任务记录文件为：DAORayaki Bounty 2021-12-15，请对该文档进行修改，并提交pull request.
