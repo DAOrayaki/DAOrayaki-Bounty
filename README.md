@@ -22,10 +22,10 @@ DAOrayaki uses Hackerlink's bounty to publish tasks. For specific operations, se
 
 In order to successfully claim your bounty, you need to pay attention to the following points:
 
-1.Your github account needs to be bound to the hacklink account
-2.You have already claimed the task in the bounty page of hacklink
-3.In the comment of the pull request you submitted, you need to indicate the corresponding issue number. For example, if you submit a result for an issue with Issue Id of 7, the comment of the pull request must be (#7)
-4.Only submit the results of one issue at one time. If multiple tasks are completed, please submit them in multiple times.
+1. Your github account needs to be bound to the hacklink account
+2. You have already claimed the task in the bounty page of hacklink
+3. In the comment of the pull request you submitted, you need to indicate the corresponding issue number. For example, if you submit a result for an issue with Issue Id of 7, the comment of the pull request must be (#7)
+4. Only submit the results of one issue at one time. If multiple tasks are completed, please submit them in multiple times.
 
 <b>When submitting a task, please update the corresponding task record file</b>, see the file content for the specific format.
 
