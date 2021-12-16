@@ -15,10 +15,13 @@ DAOrayaki 借助Hackerlink的bounty发布任务，具体操作见Hackerlink的�
 当前发布的bounty任务记录文件为：[DAORayaki Bounty 2021-12-15](https://github.com/Will-Holden/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-15)。
 
 # DAOrayaki-Bounty
+
 DAOrayaki uses Hackerlink's bounty to publish tasks. For specific operations, see Hackerlink's operating documents:
--[Bounty Publishing Guide](https://hackerlink.io/blog/bountyfa-bu-zhi-nan/)
--[Bounty Claim Guide](https://hackerlink.io/blog/hackerlink-bountyren-ling-zhi-nan/)
-- 
+- [Bounty Publishing Guide](https://hackerlink.io/blog/bountyfa-bu-zhi-nan/)
+- [Bounty Claim Guide](https://hackerlink.io/blog/hackerlink-bountyren-ling-zhi-nan/)
+
+In order to successfully claim your bounty, you need to pay attention to the following points:
+
 1.Your github account needs to be bound to the hacklink account
 2.You have already claimed the task in the bounty page of hacklink
 3.In the comment of the pull request you submitted, you need to indicate the corresponding issue number. For example, if you submit a result for an issue with Issue Id of 7, the comment of the pull request must be (#7)
