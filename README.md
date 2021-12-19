@@ -32,3 +32,5 @@ In order to successfully claim your bounty, you need to pay attention to the fol
 The currently released bounty task record file is: [DAORayaki Bounty 2021-12-15](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-15)
 =======
 当前发布的bounty任务记录文件为：[DAORayaki Bounty 2021-12-15](https://github.com/Will-Holden/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-15)。
+
+测试提交
