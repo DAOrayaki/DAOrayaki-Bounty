@@ -5,7 +5,7 @@ DAOrayaki 借助Hackerlink的bounty发布任务，具体操作见Hackerlink的�
 
 为了您的bounty认领成功，需要注意以下几点：
 
-1. 您的github账号需要已经与hacklink账号绑定
+1. 您的github账号需要已经与hackerlink账号绑定
 2. 您在hacklink的bounty页面中已经认领了该任务
 3. 您提交的pull request的评论中，需要注明对应的issue编号，如您对Issue Id 为7的问题提交成果，该条pull request的评论需要为（ #7 ）
 4. 一次只提交一个问题的成果，如果有多个任务完成，请分多次提交。
