@@ -12,7 +12,7 @@ DAOrayaki 借助Hackerlink的bounty发布任务，具体操作见Hackerlink的�
 asdfsadfasdfsadfsa
 <b>提交任务时，请更新对应的任务记录文件</b>，具体格式见文件内容。
 
-当前发布的bounty任务记录文件为：[DAORayaki Bounty 2021-12-19](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-19)。
+当前发布的bounty任务记录文件为：[DAORayaki Bounty 2021-12-27](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-27)。
 
 # DAOrayaki-Bounty
 
@@ -29,5 +29,5 @@ In order to successfully claim your bounty, you need to pay attention to the fol
 
 <b>When submitting a task, please update the corresponding task record file</b>, see the file content for the specific format.
 
-The currently released bounty task record file is: [DAORayaki Bounty 2021-12-19](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-19)
+The currently released bounty task record file is: [DAORayaki Bounty 2021-12-27](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-27)
 
