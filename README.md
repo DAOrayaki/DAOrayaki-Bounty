@@ -22,12 +22,11 @@ DAOrayaki uses Hackerlink's bounty to publish tasks. For specific operations, se
 
 In order to successfully claim your bounty, you need to pay attention to the following points:
 
-1. Your github account needs to be bound to the hacklink account
-2. You have already claimed the task in the bounty page of hacklink
-3. In the comment of the pull request you submitted, you need to indicate the corresponding issue number. For example, if you submit a result for an issue with Issue Id of 7, the comment of the pull request must be (#7)
+1. Your github account needs to be bound to the hackerlink account.
+2. You have already claimed the task in the bounty page of hackerlink.
+3. In the comment of the pull request you submitted, you need to indicate the corresponding issue number. For example, if you submit a result for an issue with Issue ID "7", the comment of the pull request must be (#7).
 4. Only submit the results of one issue at one time. If multiple tasks are completed, please submit them in multiple times.
-
-<b>When submitting a task, please update the corresponding task record file</b>, see the file content for the specific format.
-
-The currently released bounty task record file is: [DAORayaki Bounty 2021-12-27](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-27)
+5. Bounty solvers needs to hunt the bounties within DAOrayaki discord community (link: https://discord.gg/DVkXYZhQ7j) under the #daorayaki-bounties channel. First in First Served (all bounty solvers need to follow a chronological order pattern to reclaim the bounty if it is not solved from the predecessor solver).   
+6. A Bounty solver needs to submit their acquisition of the specific bounty within the github issues tab by simply putting a comment to the bounty issue declaring his order for solving the bounty and his discord username (#1 <discord_username>, #2 <discord_username>, #3 <discord_username>, and so on) the submission needs to be after the step number 5 above.
+7. After the bounty is solved, the solver needs to submit his result within the DAOrayaki discord community under the #daorayaki-bounties channel to be reviewed, and update the corresponding task record file</b>, see the file content for the specific format. The bounty task record file is: [DAORayaki Bounty 2021-12-27](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAORayaki%20Bounty%202021-12-27)
 
