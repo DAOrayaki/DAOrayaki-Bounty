@@ -1,7 +1,7 @@
 # DAOrayaki-Bounty
 DAOrayaki 借助Hackerlink的bounty发布任务，具体操作见Hackerlink的操作文档：
-- [Bounty发布指南](https://hackerlink.io/blog/bountyfa-bu-zhi-nan/)
-- [Bounty认领指南](https://hackerlink.io/blog/hackerlink-bountyren-ling-zhi-nan/)
+- [Bounty发布指南](https://hackerlink.io/zh/blog/guides/bountyfa-bu-zhi-nan/)
+- [Bounty认领指南](https://hackerlink.io/zh/blog/guides/hackerlink-bountyren-ling-zhi-nan/)
 
 为了您的bounty认领成功，需要注意以下几点：
 
@@ -16,8 +16,7 @@ DAOrayaki 借助Hackerlink的bounty发布任务，具体操作见Hackerlink的�
 # DAOrayaki-Bounty
 
 DAOrayaki uses Hackerlink's bounty to publish tasks. For specific operations, see Hackerlink's operating documents:
-- [Bounty Publishing Guide](https://hackerlink.io/blog/bountyfa-bu-zhi-nan/)
-- [Bounty Claim Guide](https://hackerlink.io/blog/hackerlink-bountyren-ling-zhi-nan/)
+- [Bounty Guide](https://hidorahacks.medium.com/how-does-a-bounty-hunter-tackle-a-hackerlink-bounty-5d2dd33716ac)
 
 In order to successfully claim your bounty, you need to pay attention to the following points:
 
