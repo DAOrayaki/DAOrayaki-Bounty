@@ -14,14 +14,14 @@ DAOrayaki 借助Hackerlink的bounty发布任务，具体操作见Hackerlink的�
 7. 赏金任务完成后，“猎人”需要在Github更新相应的任务成果，具体格式要求请在该文件中查看。文件地址：[DAOrayaki Bounty : Interstellar Immigrant 2022-1-18](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAOrayaki%20Bounty%20:%20Interstellar%20Immigrant%202022-1-18)。同时，“ 猎人”还需要在DAOrayaki的Discord社区中的#daorayaki-bounties频道中分享Github任务提交截图。
 
 任务记录文件中将记录您需要提交的结果，DAOrayaki的社区编辑将通过它来访问并审核您提交的成果。一条任务记录将如下所示：
-···
-## DAOrayaki | Engine Cooling – Why Rocket Engines Don’t Melt
+```
+ ## DAOrayaki | Engine Cooling – Why Rocket Engines Don’t Melt
 - 110u 
 - https://everydayastronaut.com/engine-cooling-methodes/
 - 贡献者： （姓名+邮箱）
 - 成果提交：（将成果放置共享文档；提交共享文档链接；设置编辑委员会可见及可编辑权限；编辑委员会邮箱：daorayaki@dorafactory.org）
 
-···
+```
 
 # DAOrayaki-Bounty
 
