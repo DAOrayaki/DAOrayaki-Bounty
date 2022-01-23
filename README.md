@@ -11,7 +11,7 @@ DAOrayaki 借助Hackerlink的bounty发布任务，具体操作见Hackerlink的�
 4. 一次只提交一个问题的成果，如果有多个任务完成，请分多次提交。
 5. 赏金“猎人”们需要在DAOrayaki的Discord社区中（https://discord.gg/vdxgGhrSy4） 的#daorayaki-bounties频道中点击赏金（Bounty）任务。所有Bounty任务先到先得，当Bounty任务没有在规定的时间内被解决的情况下，所有“猎人”们按照认领任务的顺序自动替补。  
 6. 在完成Discord认领任务之后，“猎人”需要在相应的GitHub Issue下添加评论以表明自己获得的先后顺序，该评论需要包括自己的序号和Discord用户名，例如#1 <discord_username>, #2 <discord_username>, #3 <discord_username>，依此类推。  
-7. 赏金任务完成后，“猎人”需要在Github更新相应的任务成果，具体格式要求请在该文件中查看。文件地址：[DAOrayaki Bounty : Interstellar Immigrant 2022-1-18](https://github.com/DAOrayaki/DAOrayaki-Bounty/blob/main/DAOrayaki%20Bounty%20:%20Interstellar%20Immigrant%202022-1-18)。同时，“ 猎人”还需要在DAOrayaki的Discord社区中的#daorayaki-bounties频道中分享Github任务提交截图。
+7. 赏金任务完成后，“猎人”需要在Github更新相应的任务成果，具体格式要求请在该文件中查看。文件地址：[DAOrayaki Bounty : Interstellar Immigrant 2022-1-23](DAOrayaki%20Bounty%20:%20Interstellar%20Immigrant%202022-1-23)。同时，“ 猎人”还需要在DAOrayaki的Discord社区中的#daorayaki-bounties频道中分享Github任务提交截图。
 
 任务记录文件中将记录您需要提交的结果，DAOrayaki的社区编辑将通过它来访问并审核您提交的成果。一条任务记录将如下所示：
 ```
